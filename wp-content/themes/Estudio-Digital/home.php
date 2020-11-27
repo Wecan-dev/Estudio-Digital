@@ -1,0 +1,11 @@
+<?php get_header(); ?>
+	<?php get_template_part('partials/banner'); ?>
+    <?php get_template_part('partials/hacemos'); ?>
+    <?php get_template_part('partials/agencia'); ?>
+    <?php get_template_part('partials/clientes'); ?>
+    <?php get_template_part('partials/comentarios'); ?>
+    <?php get_template_part('partials/portafolio'); ?>
+    <?php get_template_part('partials/aliados'); ?>
+    <?php get_template_part('partials/servicio'); ?>
+    <?php get_template_part('partials/blog'); ?>
+<?php get_footer(); ?>
